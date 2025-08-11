@@ -1,14 +1,21 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-import argparse, csv, re, sys, time, random, json
-from dataclasses import dataclass, asdict
+import argparse
+import csv
+import re
+import time
+import random
+from dataclasses import dataclass
 from pathlib import Path
-from typing import List, Optional, Tuple, Set
-from urllib.parse import urljoin, urlparse
+from typing import List
+from typing import Optional
+from typing import Tuple
+from typing import Set
+from urllib.parse import urljoin
+from urllib.parse import urlparse
 from datetime import datetime
-
-from bs4 import BeautifulSoup
-from playwright.sync_api import sync_playwright, Error as PWError, TimeoutError as PWTimeout
+from playwright.sync_api import sync_playwright
+from playwright.sync_api import Error as PWError
 
 
 # ---------- Data model ----------
@@ -343,7 +350,6 @@ def main():
 
     with sync_playwright() as p:
         total_collected: List[Event] = []
-        items_processed = 0
 
         def new_context():
             nonlocal ua_idx, prx_idx
