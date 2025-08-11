@@ -1,0 +1,231 @@
+title,time,location,tags,url
+KDD 2025 Registration,7:00 am – 5:00 pm,600 Registration Area,REGISTRATION,
+The 11th Mining and Learning from Time Series (MILETS): From Classical Methods to LLMs,8:00 am – 12:00 pm,601,WORKSHOPS,https://kdd-milets.github.io/milets2025/
+AI for Supply Chain: Today and Future,8:00 am – 12:00 pm,602,WORKSHOPS,https://sites.google.com/view/ai4supplychain-kdd-2025/home
+The 4th Workshop on Ethical Artificial Intelligence: Methods and Applications (EAI),8:00 am – 12:00 pm,603,WORKSHOPS,https://meviuslab.github.io/EAI2025/
+AI4DE: The 1st International Workshop on AI for Data Editing,8:00 am – 12:00 pm,604,WORKSHOPS,https://ai-for-data-editing.github.io/KDD25-workshop/
+PharmKDD: Knowledge Discovery and Data Mining for Pharmaceutical Research and Development,8:00 am – 12:00 pm,703,WORKSHOPS,https://wcm-wanglab.github.io/workshops/PharmKDD2025/homepage.html
+The 4th Workshop on AI Agent for Information Retrieval: Generating and Ranking,8:00 am – 12:00 pm,705,WORKSHOPS,https://sites.google.com/view/ai4ir/kdd-2025
+MEDS: Building Models and Tools in a Reproducible Health AI Ecosystem,8:00 am – 11:00 am,707,HANDS-ON TUTORIALS,https://medical-event-data-standard.github.io/
+"Deep Learning in the Frequency Domain: Advances, Challenges, and Applications for Time Series Analysis",8:00 am – 11:00 am,712,LECTURE STYLE TUTORIALS,https://hh4ts.github.io/Deep_Learning_in_Frequency_Domain_Tutorial/
+"A Tutorial on Small Language Models in the Era of Large Language Models: Architecture, Capabilities, and Trustworthiness",8:00 am – 11:00 am,713 A,LECTURE STYLE TUTORIALS,https://fairyfali.github.io/kdd2025-tutorial/
+Advances in Time-Series Anomaly Detection,8:00 am – 11:00 am,713 B,LECTURE STYLE TUTORIALS,https://thedatumorg.github.io/TSAD-Tutorial/
+"Large Language Model Enhanced Recommender Systems: Methods, Applications and Trends",8:00 am – 11:00 am,714 A,LECTURE STYLE TUTORIALS,https://applied-machine-learning-lab.github.io/KDD25-Tutorial-LLM-Enhanced-RecSys/about
+"Graph Foundation Models: Challenges, Methods, and Open Questions",8:00 am – 11:00 am,714 B,LECTURE STYLE TUTORIALS,https://sites.google.com/view/kdd25-gfm-tutorial
+Uncertainty Quantification and Confidence Calibration in Large Language Models: A Survey,8:00 am – 11:00 am,716 A,LECTURE STYLE TUTORIALS,https://xiao0o0o.github.io/2025KDD_tutorial/
+Coffee Break,9:30 am – 10:00 am,,NETWORKING,
+Lunch Break (Lunch on Own),12:00 pm – 1:00 pm,,NETWORKING,
+KDD 2025 Workshop on Inference Optimization for Generative AI,1:00 pm – 5:00 pm,601,WORKSHOPS,https://magic-town-d89.notion.site/KDD-2025-Workshop-on-Inference-Optimization-for-Generative-AI-1c8120fc782780b48f7efc32d6de368a
+International Workshop on Online and Adaptive Recommender Systems (OARS 2025),1:00 pm – 5:00 pm,602,WORKSHOPS,https://oars-workshop.github.io/
+4th Workshop on Uncertainty Reasoning and Quantification in Decision Making (UDM),1:00 pm – 5:00 pm,603,WORKSHOPS,https://meviuslab.github.io/UDM2025/
+The 6th International Workshop on Talent and Management Computing (TMC’2025),1:00 pm – 5:00 pm,604,WORKSHOPS,https://tmcworkshop.github.io/2025/
+24th International Workshop on Data Mining in Bioinformatics (BIOKDD 2025),1:00 pm – 5:00 pm,703,WORKSHOPS,https://biokdd.org/biokdd25/
+The 14th International Workshop on Urban Computing,1:00 pm – 5:00 pm,705,WORKSHOPS,https://urbcomp25.netlify.app/
+Training Industry-scale GNNs with GiGL,1:00 pm – 4:00 pm,707,HANDS-ON TUTORIALS,https://github.com/Snapchat/GiGL/tree/main/examples/tutorial/KDD_2025
+Enhancing Digital Forensics Evidence Analysis with Large Language Models,1:00 pm – 4:00 pm,709,HANDS-ON TUTORIALS,https://github.com/dmark1021/digital-forensics-lab/tree/main/KDD2025
+"Synthetic Tabular Data: methods, attacks and defenses",1:00 pm – 4:00 pm,712,LECTURE STYLE TUTORIALS,https://sites.google.com/view/synthetic-tab-data-tutorial
+Evaluation and Benchmarking of AI Agents: A Survey,1:00 pm – 4:00 pm,713 A,LECTURE STYLE TUTORIALS,https://sap-samples.github.io/llm-agents-eval-tutorial/
+Retrieval And Structuring Augmented Generation with Large Language Models,1:00 pm – 4:00 pm,713 B,LECTURE STYLE TUTORIALS,https://sites.google.com/view/ras-llm
+A Survey on Trustworthy LLM Agents: Threats and Countermeasures,1:00 pm – 4:00 pm,714 A,LECTURE STYLE TUTORIALS,https://ymm-cll.github.io/TrustAgent.github.io/
+Graph ODEs and Beyond: A Comprehensive Survey on Integrating Differential Equations with Graph Neural Networks,1:00 pm – 4:00 pm,714 B,LECTURE STYLE TUTORIALS,https://kdd2025graphode.github.io/
+A Survey on Model Extraction Attacks and Defenses for Large Language Models,1:00 pm – 4:00 pm,716 A,LECTURE STYLE TUTORIALS,https://labrai.github.io/KDD2025_Tutorial/
+Coffee Break,3:00 pm – 3:30 pm,,NETWORKING,
+KDD 2025 Registration,7:00 am – 6:00 pm,600 Registration Area,REGISTRATION,
+3rd Workshop on Causal Inference and Machine Learning in Practice,8:00 am – 12:00 pm,601,WORKSHOP,https://causal-machine-learning.github.io/kdd2025-workshop/
+"TSMO 2025: Two-sided Marketplace Optimization: Search, Discovery, Matching, Pricing & Growth",8:00 am – 12:00 pm,602,WORKSHOP,https://sites.google.com/view/tsmo2025/home
+8th Workshop on Machine Learning in Finance,8:00 am – 12:00 pm,603,WORKSHOP,https://sites.google.com/view/kdd-mlf-2025/
+FedKDD: International Joint Workshop on Federated Learning for Data Mining and Graph Analytics,8:00 am – 12:00 pm,604,WORKSHOP,https://fedkdd.github.io/fedkdd2025/
+The Hitchhikers guide to production-ready trustworthy Foundation Model powered Software (FMware),8:00 am – 11:00 am,605,LECTURE-STYLE TUTORIAL,https://kdd2025fmware.github.io/
+Fragile Earth: Innovative AI For Climate Risk Mitigation,8:00 am – 12:00 pm,703,WORKSHOP,https://ai4good.org/fragile-earth-2025/
+RelKD 2025: The Third International Workshop on Resource-Efficient Learning for Knowledge Discovery,8:00 am – 12:00 pm,705,WORKSHOP,https://chuxuzhang.github.io/RelKD/index.html
+CausalBench: Causal Learning Research Streamlined,8:00 am – 11:00 am,707,HANDS-ON TUTORIAL,https://tutorial.causalbench.org/
+Boost the Performance of Tabular Data Models with GPU Accelerated Feature Engineering,8:00 am – 11:00 am,711,HANDS-ON TUTORIAL,https://github.com/NVIDIA-Merlin/publications/tree/main/tutorials/KDD2025tutorial
+KDD Cup,8:00 am – 12:00 pm,712,KDD CUP,https://kddcup25.github.io/pages/schedule.html
+Machine Learning on Graphs in the Era of Artificial General Intelligence,8:00 am – 12:00 pm,715,WORKSHOP,https://mlgraphworkshop.github.io/
+Large Language Models (LLMs) for the E-Commerce,8:00 am – 12:00 pm,717,WORKSHOP,https://kdd2025llm4ecommerce.github.io/
+A Survey of WebAgents: Towards Next-Generation AI Agents for Web Automation with Large Foundation Models,8:00 am – 11:00 am,713 A,LECTURE-STYLE TUTORIAL,https://biglemon-ning.github.io/WebAgents/
+Foundation Models for Spatio-Temporal Data Science: A Tutorial and Survey,8:00 am – 11:00 am,713 B,LECTURE-STYLE TUTORIAL,https://wenhaomin.github.io/FM4ST.github.io/
+AdKDD 2025,8:00 am – 12:00 pm,714 A,WORKSHOP,https://www.adkdd.org/
+Data Heterogeneity Modeling for Trustworthy Machine Learning,8:00 am – 11:00 am,716 B,LECTURE-STYLE TUTORIAL,https://sites.google.com/view/kdd2025-data-heterogeneity
+"Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures",8:00 am – 11:00 am,714 B,LECTURE-STYLE TUTORIAL,https://sites.google.com/view/rdltutorial2025/home
+Finance Day,9:50 am – 4:30 pm,716 A,SPECIAL DAY,https://kddfinanceday2025.github.io/
+4th Workshop on End-End Customer Journey Optimization,1:00 pm – 5:00 pm,601,WORKSHOP,https://sites.google.com/view/kddcjworkshop2025/home
+KDD workshop on Evaluation and Trustworthiness of Agentic and Generative AI: Agentic & GenAI Evaluation KDD2025,1:00 pm – 5:00 pm,602,WORKSHOP,https://kdd-eval-workshop.github.io/genai-evaluation-kdd2025/
+KDD 2025 Workshop on Prompt Optimization,1:00 pm – 5:00 pm,603,WORKSHOP,https://kdd-prompt-optimization-workshop.github.io/kdd-2025-prompt-optimization/
+SciSoc LLM Workshop: Large Language Models for Scientific and Societal Advances,1:00 pm – 5:00 pm,604,WORKSHOP,https://kdd25scisocllm.github.io/
+Finding Repeated Structures in Time Series: Algorithms and Applications,1:00 pm – 4:00 pm,605,LECTURE-STYLE TUTORIAL,https://www.cs.ucr.edu/~eamonn/TimeSeriesMotifs/
+Agentic AI for Enterprise: Emerging Applications and Real-world Challenges,1:00 pm – 5:00 pm,703,WORKSHOP,https://sites.google.com/view/kddworkshop2025-agentic-ai/home
+Fourth Workshop on Personalization and Recommendations in Search (PaRiS),1:00 pm – 5:00 pm,705,WORKSHOP,https://paris-workshop.github.io/www/index.html
+A Hands-on Tutorial on Time Series Imputation with ImputeGAP,1:00 pm – 4:00 pm,707,HANDS-ON TUTORIAL,https://imputegap-tutorials.github.io/KDD-2025/html/index.html
+Beyond Input Attribution: A Hands-On Tutorial to Concept-Based Explainable AI and Mechanistic Interpretability,1:00 pm – 4:00 pm,709,HANDS-ON TUTORIAL,https://cxai-mechint-htutorial-kdd2025.github.io/
+Practical Guidance and Tutorial on Incentivizing Reasoning in LLMs using Distillation and Reinforcement Learning,1:00 pm – 4:00 pm,711,HANDS-ON TUTORIAL,https://zpqiu.github.io/reasoning-model-tutorial-kdd2025/
+MedKLM: Unifying Large Language Models and Knowledge Graphs for Medicine and Healthcare,1:00 pm – 4:00 pm,716 B,LECTURE-STYLE TUTORIAL,https://sites.google.com/view/medklm2025/home
+Hyperbolic Deep Learning for Foundation Models: A TutorialHyperbolic Deep Learning for Foundation Models: A Tutorial,1:00 pm – 4:00 pm,712,LECTURE-STYLE TUTORIAL,https://hyperboliclearning.github.io/events/kdd2025tutorial
+Second Workshop on Generative AI for Recommender Systems and Personalization,1:00 pm – 5:00 pm,715,WORKSHOP,https://genai-personalization.github.io/GenAIRecP2025
+Structured Knowledge for Large Language Models,1:00 pm – 5:00 pm,717,WORKSHOP,https://sknowllm.github.io/
+CANCELLED: Diffusion Models for Recommender Systems: From Content Distribution To Content Creation,1:00 pm – 4:00 pm,713 A,LECTURE-STYLE TUTORIAL,https://chiangel.github.io/KDD25-DiffRec-Tutorial/
+Multi-modal Time Series Analysis: A Tutorial and Survey,1:00 pm – 4:00 pm,713 B,LECTURE-STYLE TUTORIAL,https://uconn-dsis.github.io/MMTSA_tutorial/
+Temporal Graph Learning Workshop,1:00 pm – 5:00 pm,714 A,WORKSHOP,https://sites.google.com/view/tgl-workshop-2025/
+Graph Prompting for Graph Learning Models: Recent Advances and Future Directions,1:00 pm – 4:00 pm,714 B,LECTURE-STYLE TUTORIAL,https://www.xingbofu.com/tutorials/kdd25-graph-prompting
+KDD 2025 Opening Ceremony,5:15 pm – 6:30 pm,Exhibit Hall G,GENERAL SESSION,
+Poster Reception: Group 1,6:45 pm – 9:00 pm,Exhibit Hall F,POSTERS,https://docs.google.com/spreadsheets/d/1og_MPSTvn0XF1ij9yReJYJ1D5ShDTCUyJ5RalXSvMe4/htmlview#gid=300395106
+KDD 2025 Registration,7:30 am – 6:00 pm,600 Registration Area,REGISTRATION,
+Spatio-Temporal Modeling 1,8:00 am – 10:00 am,601,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4638720/?widget=primary
+Non-Stationary Environments & Optimization,8:00 am – 10:00 am,602,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728518/?widget=primary
+Large Language Models,8:00 am – 10:00 am,603,DATASETS & BENCHMARKS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728519/?widget=primary
+Applications I,8:00 am – 10:00 am,604,DATASETS & BENCHMARKS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728520/?widget=primary
+Label Adaptation,8:00 am – 10:00 am,703,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728521/?widget=primary
+"Recommender Systems, Diversity, and Shopping",8:00 am – 10:00 am,705,ADS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728522/?widget=primary
+Graph Neural Networks,8:00 am – 10:00 am,707,ADS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728523/?widget=primary
+Multimodal AI,8:00 am – 10:00 am,709,ADS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728524/?widget=primary
+Data Science for ML,8:00 am – 10:00 am,711,ADS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728525/?widget=primary
+Graph Neural Networks 1,8:00 am – 10:00 am,715,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728526/?widget=primary
+Graph Neural Networks 2,8:00 am – 10:00 am,717,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728527/?widget=primary
+Recommender Systems 1,8:00 am – 10:00 am,701 A,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728528/?widget=primary
+Data Streams,8:00 am – 10:00 am,701 B,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728529/?widget=primary
+Molecular Representation and Drug Discovery,8:00 am – 10:00 am,713 A,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728530/?widget=primary
+Federated Learning 1,8:00 am – 10:00 am,714 A,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728531/?widget=primary
+Adaptive Learning Models,8:00 am – 10:00 am,714 B,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728532/?widget=primary
+Health Day,8:00 am – 5:30 pm,716 A,SPECIAL DAY,https://sites.google.com/g.ucla.edu/kdd-healthday/home
+Awards Talk: Dissertation,8:00 am – 10:00 am,718 A,AWARDS TALKS,
+Graph Modeling and Prediction,8:00 am – 10:00 am,718 B,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728534/?widget=primary
+AI-Enhanced Model and Analysis,8:00 am – 10:00 am,801 A,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728535/?widget=primary
+Machine Learning Optimization 1,8:00 am – 10:00 am,801 B,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728536/?widget=primary
+Responsible AI Day,8:30 am – 5:00 pm,713 B,SPECIAL DAY,https://sites.google.com/view/responsible-ai-day/
+Expo Hall Open,10:00 am – 3:30 pm,Exhibit Hall E,,
+Coffee Break,10:00 am – 10:30 am,Exhibit Hall E,NETWORKING,
+Keynote Address: Causality from Multi-Modal Data,10:30 am – 12:00 pm,Exhibit Hall G,GENERAL SESSION,
+Keynote Address: Deep Learning Meets Chip Design: Driving Next-Gen Efficiency and Innovation,10:30 am – 12:00 pm,Exhibit Hall G,GENERAL SESSION,
+Lunch,12:00 pm – 1:00 pm,Exhibit Hall E,NETWORKING,
+Time Series and Anomaly Detection,1:00 pm – 3:00 pm,601,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728538/?widget=primary
+Algorithmic Fairness,1:00 pm – 3:00 pm,602,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728539/?widget=primary
+Graphs and Social Networks,1:00 pm – 3:00 pm,603,DATASETS & BENCHMARKS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728540/?widget=primary
+Applications II,1:00 pm – 3:00 pm,604,DATASETS & BENCHMARKS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728541/?widget=primary
+Advanced Machine Learning Techniques,1:00 pm – 3:00 pm,703,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728542/?widget=primary
+LLMs in Recommender Systems,1:00 pm – 3:00 pm,705,ADS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728543/?widget=primary
+Search and Learning to Rank,1:00 pm – 3:00 pm,707,ADS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728544/?widget=primary
+Fraud and Threat Detection,1:00 pm – 3:00 pm,709,ADS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728545/?widget=primary
+Industrial Applications and Systems,1:00 pm – 3:00 pm,711,ADS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728546/?widget=primary
+Graph Neural Networks 3,1:00 pm – 3:00 pm,715,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728547/?widget=primary
+Graph Neural Networks 4,1:00 pm – 3:00 pm,717,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728548/?widget=primary
+Recommender Systems 2,1:00 pm – 3:00 pm,701 A,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728549/?widget=primary
+Privacy-Preserving Graph Analysis,1:00 pm – 3:00 pm,701 B,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728550/?widget=primary
+Label Learning and Classification Strategies,1:00 pm – 3:00 pm,713 A,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728551/?widget=primary
+Diffusion Models and Bias Mitigation,1:00 pm – 3:00 pm,714 A,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728552/?widget=primary
+Few-shot Learning & Anomaly Detection,1:00 pm – 3:00 pm,714 B,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728553/?widget=primary
+Canada AI Day,1:00 pm – 5:35 pm,716 B,SPECIAL DAY,https://sites.google.com/view/canada-ai-day/
+ADS Invited Talks - Christina Ilvento & Natalie Glance,1:00 pm – 3:00 pm,718 A,ADS INVITED TALK,
+Graph Algorithms 1,1:00 pm – 3:00 pm,718 B,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728555/?widget=primary
+Multimodal Data Processing,1:00 pm – 3:00 pm,801 A,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728556/?widget=primary
+Machine Learning Interpretability and Robustness,1:00 pm – 3:00 pm,801 B,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728557/?widget=primary
+Time Series and Domain Generalization,3:30 pm – 5:30 pm,601,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728560/?widget=primary
+Robustness and Graph Neural Networks,3:30 pm – 5:30 pm,602,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4796452/?widget=primary
+Human AI Interaction and Question Answering,3:30 pm – 5:30 pm,603,DATASETS & BENCHMARKS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728562/?widget=primary
+AI for Science,3:30 pm – 5:30 pm,604,DATASETS & BENCHMARKS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728563/?widget=primary
+Financial and Risk Analysis,3:30 pm – 5:30 pm,703,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728564/?widget=primary
+Time series forecasting,3:30 pm – 5:30 pm,705,ADS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728565/?widget=primary
+Image and Video Understanding,3:30 pm – 5:30 pm,707,ADS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728566/?widget=primary
+ML Techniques,3:30 pm – 5:30 pm,709,ADS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728567/?widget=primary
+Data Science for Business Processes,3:30 pm – 5:30 pm,711,ADS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728568/?widget=primary
+Language Model Applications and Innovations,3:30 pm – 5:30 pm,715,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728569/?widget=primary
+Language Models for Task Optimization,3:30 pm – 5:30 pm,717,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728570/?widget=primary
+Recommender Systems 3,3:30 pm – 5:30 pm,701 A,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728571/?widget=primary
+Bandits and Regret Minimization,3:30 pm – 5:30 pm,701 B,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728572/?widget=primary
+Causal Discovery and Domain Adaptation,3:30 pm – 5:30 pm,713 A,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728573/?widget=primary
+Network and Machine Learning Applications,3:30 pm – 5:30 pm,714 A,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728574/?widget=primary
+Protein and Molecular Modeling,3:30 pm – 5:30 pm,714 B,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728575/?widget=primary
+ADS Invited Talks - Nina Mishra & Jay Alammar,3:30 pm – 5:30 pm,718 A,ADS INVITED TALK,
+Graph Neural Networks 5,3:30 pm – 5:30 pm,718 B,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728577/?widget=primary
+Transformer Optimization and Efficiency,3:30 pm – 5:30 pm,801 A,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728578/?widget=primary
+Machine Learning Optimization 2,3:30 pm – 5:30 pm,801 B,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728579/?widget=primary
+Poster Reception: Group 2,5:45 pm – 8:00 pm,Exhibit Hall F,POSTERS,https://docs.google.com/spreadsheets/d/1og_MPSTvn0XF1ij9yReJYJ1D5ShDTCUyJ5RalXSvMe4/htmlview#gid=300395106
+Undergradute & Masters Consortium,8:15 am – 10:15 am,716 A,UNDERGRADUATE & MASTERS CONSORTIUM,
+Awards Talk: Test of Time,8:15 am – 9:45 am,718 A,AWARDS TALKS,
+KDD 2025 Panel on AI for Science,8:45 am – 10:15 am,718 B,SPECIAL DAY,https://kdd2025.kdd.org/kdd-ai-science-panel/
+Expo Hall Open,10:15 am – 3:30 pm,Exhibit Hall E,,
+Coffee Break,10:15 am – 10:45 am,Exhibit Hall E,NETWORKING,
+"Keynote Address: On Reasoning LLMs: Myths, Merits, and How to Move Forward",10:45 am – 12:00 pm,Exhibit Hall G,GENERAL SESSION,
+Time-evolving Data Analysis,1:00 pm – 3:00 pm,601,RESEARCH TRACK,https://kdd2025.kdd.org/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728582/?widget=primary
+Trajectory Modeling and Analysis 1,1:00 pm – 3:00 pm,602,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728583/?widget=primary
+Multimodal Data,1:00 pm – 3:00 pm,603,DATASETS & BENCHMARKS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728584/?widget=primary
+Biology and Health,1:00 pm – 3:00 pm,604,DATASETS & BENCHMARKS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728585/?widget=primary
+PhD Consortium,1:00 pm – 3:00 pm,605,PHD CONSORTIUM,
+Tree-Based and Graph-Based Methods,1:00 pm – 3:00 pm,703,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4796459/?widget=primary
+Advertising 1,1:00 pm – 3:00 pm,705,ADS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728587/?widget=primary
+User Modeling and Behavior Prediction,1:00 pm – 3:00 pm,707,ADS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728588/?widget=primary
+Structured Data: Graph and Point Clouds,1:00 pm – 3:00 pm,709,ADS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728589/?widget=primary
+Logistics,1:00 pm – 3:00 pm,711,ADS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728591/?widget=primary
+Quantum & Neural Time-Series Models,1:00 pm – 3:00 pm,712,RESEARCH TRACK,https://kdd2025.kdd.org/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728592/?widget=primary
+Graph Neural Networks 6,1:00 pm – 3:00 pm,715,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728593/?widget=primary
+Graph-Based Methods 1,1:00 pm – 3:00 pm,717,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728594/?widget=primary
+Efficient Language Models,1:00 pm – 3:00 pm,701 A,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728595/?widget=primary
+Generative Models and Dynamic Systems,1:00 pm – 3:00 pm,701 B,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728596/?widget=primary
+Security in AI Systems,1:00 pm – 3:00 pm,713 A,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728597/?widget=primary
+Efficient Data Processing,1:00 pm – 3:00 pm,714 A,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728598/?widget=primary
+Multimodality and Healthcare,1:00 pm – 3:00 pm,714 B,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728599/?widget=primary
+Undergradute & Masters Consortium,1:00 pm – 3:00 pm,716 A,UNDERGRADUATE & MASTERS CONSORTIUM,
+AI & Science Day,1:00 pm – 5:30 pm,716 B,SPECIAL DAY,https://sites.google.com/usc.edu/ai-for-science-day/home
+ADS Invited Talks - Yaron Singer & Deepak Agarwal,1:00 pm – 3:00 pm,718 A,ADS INVITED TALK,
+Graph Learning 1,1:00 pm – 3:00 pm,718 B,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728600/?widget=primary
+Advancements in AI-Assisted Optimization,1:00 pm – 3:00 pm,801 A,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728601/?widget=primary
+Machine Learning Optimization 3,1:00 pm – 3:00 pm,801 B,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728602/?widget=primary
+Spatio-Temporal Modeling 2,3:30 pm – 5:30 pm,601,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728603/?widget=primary
+Trajectory Modeling and Analysis 2,3:30 pm – 5:30 pm,602,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728604/?widget=primary
+Applications III,3:30 pm – 5:30 pm,603,DATASETS & BENCHMARKS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728605/?widget=primary
+Recommendation and Trust,3:30 pm – 5:30 pm,604,DATASETS & BENCHMARKS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728606/?widget=primary
+"Forecasting, Anomaly Detection and Resiliency",3:30 pm – 5:30 pm,705,ADS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728608/?widget=primary
+"Agents, Tool Use, and Retrieval",3:30 pm – 5:30 pm,707,ADS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728609/?widget=primary
+Content moderation and policy violation detection,3:30 pm – 5:30 pm,709,ADS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728610/?widget=primary
+Mobility,3:30 pm – 5:30 pm,711,ADS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728611/?widget=primary
+LLM and Transformer Applications,3:30 pm – 5:30 pm,712,ADS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728612/?widget=primary
+Graph Neural Networks 7,3:30 pm – 5:30 pm,715,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728613/?widget=primary
+Graph Neural Networks 8,3:30 pm – 5:30 pm,717,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728614/?widget=primary
+Graph Robustness,3:30 pm – 5:30 pm,701 A,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728615/?widget=primary
+Graph-Based Methods 2,3:30 pm – 5:30 pm,701 B,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728616/?widget=primary
+Causal Inference and Discovery,3:30 pm – 5:30 pm,713 A,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728617/?widget=primary
+Federated Learning 2,3:30 pm – 5:30 pm,714 A,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728618/?widget=primary
+Machine Learning in Healthcare,3:30 pm – 5:30 pm,714 B,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728619/?widget=primary
+"PhD, Undergradute & Masters Consortium",3:30 pm – 5:30 pm,716 A,UNDERGRADUATE & MASTERS CONSORTIUM,
+ADS Invited Talks - Marc Najork & Chris Wiggins,3:30 pm – 5:30 pm,718 A,ADS INVITED TALK,
+Graph Learning 2,3:30 pm – 5:30 pm,718 B,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728621/?widget=primary
+Graph Embedding and Clustering Methods,3:30 pm – 5:30 pm,801 A,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728622/?widget=primary
+Language Models and Knowledge Graphs,3:30 pm – 5:30 pm,801 B,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728623/?widget=primary
+SIGKDD Business Updates & Townhall,5:45 pm – 6:45 pm,Exhibit Hall G,GENERAL SESSION,
+KDD Annual Celebration,6:45 pm – 8:00 pm,Exhibit Hall E,,
+KDD Luggage Storage,7:30 am – 3:45 pm,605,LUGGAGE STORAGE,
+KDD 2025 Registration,7:30 am – 3:00 pm,600 Registration Area,REGISTRATION,
+AI Reasoning Day,8:00 am – 4:30 pm,718 A,SPECIAL DAY,https://ai-reasoning.github.io/
+Spatio-Temporal Modeling 3,8:15 am – 10:15 am,601,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4638758/?widget=primary
+Logic-Enhanced AI Techniques,8:15 am – 10:15 am,602,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728625/?widget=primary
+AI for Science II,8:15 am – 10:15 am,604,DATASETS & BENCHMARKS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728626/?widget=primary
+Cloud and Devices,8:15 am – 10:15 am,703,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728627/?widget=primary
+Advertising 2,8:15 am – 10:15 am,705,ADS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728628/?widget=primary
+Video and Multimodal Recommendations 1,8:15 am – 10:15 am,707,ADS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728629/?widget=primary
+Recommender Systems 1,8:15 am – 10:15 am,709,ADS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728630/?widget=primary
+Medical and Biologal Applications,8:15 am – 10:15 am,711,ADS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728631/?widget=primary
+Graph Algorithms 2,8:15 am – 10:15 am,715,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728632/?widget=primary
+Graph Learning 3,8:15 am – 10:15 am,717,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728633/?widget=primary
+Recommender Systems 4,8:15 am – 10:15 am,701 A,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728634/?widget=primary
+Recommender Systems 5,8:15 am – 10:15 am,701 B,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728635/?widget=primary
+Reinforcement Learning and Urban Applications,8:15 am – 10:15 am,713 A,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728636/?widget=primary
+Fair and Scalable Data Summarization,8:15 am – 10:15 am,714 A,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728637/?widget=primary
+AI in Code and Biosciences,8:15 am – 10:15 am,714 B,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728638/?widget=primary
+Graph Prompt Learning,8:15 am – 10:15 am,718 B,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728639/?widget=primary
+Interpretable Machine Learning,8:15 am – 10:15 am,801 A,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728640/?widget=primary
+Machine Learning Optimization 4,8:15 am – 10:15 am,801 B,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728641/?widget=primary
+Expo Hall Open,10:15 am – 3:00 pm,Exhibit Hall E,,
+Keynote Address: Meaning and Intelligence in Language Models: From History and Philosophy to Universal Transformers and Web Agents,10:45 am – 12:00 pm,Exhibit Hall G,GENERAL SESSION,
+Spatio-Temporal Modeling 4,1:00 pm – 3:00 pm,601,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4638765/?widget=primary
+Object-Centric and Multimodal Learning,1:00 pm – 3:00 pm,602,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728643/?widget=primary
+Multi-Agent Systems,1:00 pm – 3:00 pm,703,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728644/?widget=primary
+Experimentation and A/B Testing,1:00 pm – 3:00 pm,705,ADS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728645/?widget=primary
+Video and Multimodal Recommendations 2,1:00 pm – 3:00 pm,707,ADS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728646/?widget=primary
+Medical Applications and Life Sciences,1:00 pm – 3:00 pm,711,ADS TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728648/?widget=primary
+Graph and Cognitive Diagnosis Models,1:00 pm – 3:00 pm,715,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728649/?widget=primary
+Graph-Based Methods 3,1:00 pm – 3:00 pm,717,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728650/?widget=primary
+Recommender Systems 6,1:00 pm – 3:00 pm,701 A,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728651/?widget=primary
+Recommender Systems 7,1:00 pm – 3:00 pm,701 B,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728652/?widget=primary
+Marketing and Engagement,1:00 pm – 3:00 pm,713 A,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728653/?widget=primary
+Federated Learning 3,1:00 pm – 3:00 pm,714 A,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728654/?widget=primary
+AI in Sciences,1:00 pm – 3:00 pm,714 B,RESEARCH TRACK,https://kdd2025.kdd.org/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728655/?widget=primary
+Graph Learning 4,1:00 pm – 3:00 pm,718 B,RESEARCH TRACK,https://whova.com/embedded/session/bMmjr7UCYdEHcXQvuqfVt0Si3cTgbY5AgOHyJZbjDyk%3D/4728656/?widget=primary
