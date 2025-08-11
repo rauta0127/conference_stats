@@ -1,0 +1,153 @@
+title,time,location,tags,url
+Data Science in India,05:30 – 09:30,VIRTUAL,,https://ikdd.acm.org/kdd2024/
+Registration,08:00 – 18:00,Entrance Hall A,,
+RelKD 2024: The Second International Workshop on Resource-Efficient Learning for Knowledge Discovery,09:00 – 13:00,118,WORKSHOPS,https://chuxuzhang.github.io/RelKD/
+Graph Intelligence with Large Language Models and Prompt Learning,10:00 – 13:00,113,LECTURE STYLE TUTORIALS,https://kdd2024.kdd.org/agenda/“https:/graph-intelligence.github.io/”
+RAG Meets LLMs: Towards Retrieval-Augmented Large Language Models,10:00 – 13:00,114,LECTURE STYLE TUTORIALS,https://advanced-recommender-systems.github.io/RAG-Meets-LLMs/
+Heterogeneous Contrastive Learning for Foundation Models and Beyond,10:00 – 13:00,115,LECTURE STYLE TUTORIALS,https://www.zihao.website/cl4fm.github.io/
+Decoding the AI Pen: Techniques and Challenges in Detecting AI-Generated Text,10:00 – 13:00,116,LECTURE STYLE TUTORIALS,https://decoding-the-ai-pen.github.io/
+A Review of Graph Neural Networks in Epidemic Modeling,10:00 – 13:00,119,LECTURE STYLE TUTORIALS,https://kdd2024epidemic.github.io/
+Bias and Unfairness in Information Retrieval Systems: New Challenges in the LLM Era,10:00 – 13:00,120,LECTURE STYLE TUTORIALS,https://llm-ir-bias-fairness.github.io/
+Advances in Human Event Modeling: From Graph Neural Networks to Language Models,10:00 – 13:00,121,LECTURE STYLE TUTORIALS,https://songgaojundeng.github.io/kdd24-tutorial.html
+A Tutorial on Multi-Armed Bandit Applications for Large Language Models,10:00 – 13:00,122-123,HANDS ON TUTORIALS,https://www.researchgate.net/publication/383260550_A_Tutorial_on_Multi-Armed_Bandit_Applications_for_Large_Language_Models
+Multi-modal Data Processing for Foundation Models: Practical Guidances and Use Cases,10:00 – 13:00,124-125,HANDS ON TUTORIALS,https://modelscope.github.io/data-juicer/_static/tutorial_kdd24.html
+Recent and Upcoming Developments in Randomized Numerical Linear Algebra for Machine Learning,10:00 – 13:00,127-128,LECTURE STYLE TUTORIALS,https://web.eecs.umich.edu/~derezin/randnla-for-ml/
+Automated Mining of Structured Knowledge from Text in the Era of Large Language Models,10:00 – 13:00,129-130,LECTURE STYLE TUTORIALS,https://yzhan238.github.io/kdd24-tutorial/
+"Multimodal Pretraining, Adaptation, and Generation for Recommendation: A Tutorial",10:00 – 13:00,132,LECTURE STYLE TUTORIALS,https://mmrec.github.io/
+Symbolic regression: a pathway to interpretability towards automated scientific discovery,10:00 – 13:00,133,LECTURE STYLE TUTORIALS,https://nmakke.github.io/SRTutorial_kdd24/
+Explainable Artificial Intelligence on Biosignals for Clinical Decision Support,10:00 – 13:00,134,LECTURE STYLE TUTORIALS,https://jacquelinebeinecke.github.io/xai-biosignal-cdss/
+"Modern Recommender Systems Leveraging Generative AI: Fundamentals, Challenges and Opportunities",10:00 – 13:00,131,LECTURE STYLE TUTORIALS,https://academic-recsys-tutorials.github.io/academic-recsys-tutorials/gen-recsys/index.html
+Coffee Break,10:30 – 11:00,Second Floor Foyer,,
+AdKDD 2024,14:00 – 18:00,113,WORKSHOPS,https://www.adkdd.org/
+First Workshop on Generative AI for Recommender Systems and Personalization,14:00 – 18:00,114,WORKSHOPS,https://genai-personalization.github.io/GenAIRecP2024
+KDD workshop on Evaluation and Trustworthiness of Generative AI Models,14:00 – 18:00,115,WORKSHOPS,https://genai-evaluation-kdd2024.github.io/genai-evalution-kdd2024/
+Large Language Models for Graphs: Progresses and Directions,14:00 – 17:00,116,LECTURE STYLE TUTORIALS,https://llm4graph-tutorial.github.io/
+The First Workshop on AI Behavioral Science,14:00 – 18:00,118,WORKSHOPS,https://ai-behavioral-science.github.io/2024
+The 5th International Workshop on Talent and Management Computing (TMC’2024),14:00 – 18:00,119,WORKSHOPS,https://careersciencelab.com/tmc2024
+3rd Workshop on Ethical Artificial Intelligence: Methods and Applications (EAI),14:00 – 18:00,120,WORKSHOPS,https://ai-activities.github.io/EAI-workshop-24/
+Graph Machine Learning Meets Multi-Table Relational Data,14:00 – 17:00,121,LECTURE STYLE TUTORIALS,https://github.com/dglai/GML-on-Multi-Tables
+Tutorial on Graph Reasoning with LLMs (GReaL),14:00 – 17:00,122-123,HANDS ON TUTORIALS,https://github.com/google-research/talk-like-a-graph/blob/main/tutorial/README.md
+Domain-Driven LLM Development: Insights into RAG and Fine-Tuning Practices,14:00 – 17:00,124-125,HANDS ON TUTORIALS,https://kdd-tutorial-2024.github.io/
+A Survey on Hypergraph Neural Networks: An In-Depth and Step-By-Step Guide,14:00 – 17:00,127-128,LECTURE STYLE TUTORIALS,https://sites.google.com/view/hnn-tutorial
+Inference Optimization of Foundation Models on AI Accelerators,14:00 – 17:00,129-130,LECTURE STYLE TUTORIALS,https://sites.google.com/view/kdd-2024-tutorial-inf-opt-/
+Causal Inference with Latent Variables: Recent Advances and Future Prospectives,14:00 – 17:00,132,LECTURE STYLE TUTORIALS,https://yaochenzhu.github.io/KDD_2024_tutorial.html
+Safe Multi-Modal Machine Learning,14:00 – 17:00,133,LECTURE STYLE TUTORIALS,https://sites.google.com/view/kdd-tutorial/safe-multi-modal
+Towards Urban General Intelligence Through Urban Foundation Models,14:00 – 17:00,134,LECTURE STYLE TUTORIALS,https://usail-hkust.github.io/Urban_Foundation_Model_Tutorial/
+Reasoning and Planning with Large Language Models in Code Development,14:00 – 17:00,131,LECTURE STYLE TUTORIALS,https://sites.google.com/view/kdd2024tutorial
+Coffee Break,16:00 – 16:30,Second Floor Foyer,,
+Human-Interpretable AI,09:00 – 13:00,113,WORKSHOPS,https://human-interpretable-ai.github.io/
+Finance Day,09:00 – 18:00,114,SPECIAL DAY,https://kddfinanceday2024.github.io/
+The 10th Mining and Learning from Time Series Workshop: From Classical Methods to LLMs,09:00 – 13:00,115,WORKSHOPS,https://kdd-milets.github.io/milets2024/
+2nd Workshop on Causal Inference and Machine Learning in Practice,09:00 – 13:00,116,WORKSHOPS,https://causal-machine-learning.github.io/kdd2024-workshop/
+epiDAMIK 2024: The 7th International Workshop on Epidemiology meets Data Mining and Knowledge Discovery,09:00 – 13:00,118,WORKSHOPS,https://epidamik.github.io/
+The 13th International Workshop on Urban Computing (Urbcomp 2024),09:00 – 13:00,119,WORKSHOPS,http://urban-computing.com/urbcomp2024/index.html#about
+"KiL 2024: 4th International Workshop on Knowledge-infused Learning (Towards Consistent, Reliable, Explainable, and Safe LLMs)",09:00 – 13:00,120,WORKSHOPS,https://kil-workshop.github.io/
+The 4th Workshop on Artificial Intelligence-enabled Cybersecurity Analytics,09:00 – 13:00,121,WORKSHOPS,https://ai4cyber-kdd.com/
+NL2Code-Reasoning and Planning with LLM for Code Development,09:00 – 13:00,127-128,WORKSHOPS,https://nl2ql.github.io/
+TSMO 2024: Two-sided Marketplace Optimization,09:00 – 13:00,129-130,WORKSHOPS,https://sites.google.com/view/tsmo2024/home
+23rd International Workshop on Data Mining in Bioinformatics (BIOKDD 2024),09:00 – 13:00,131-132,WORKSHOPS,https://biokdd.org/biokdd24/
+"The 4th KDD Workshop on Deep Learning for Spatiotemporal Data, Applications, and Systems (DeepSpatial’24)",09:00 – 13:00,133,WORKSHOPS,
+Fragile Earth: Generative and Foundational Models for Sustainable Development,09:00 – 13:00,134,WORKSHOPS,https://ai4good.org/fragile-earth-2024/
+Practical Machine Learning for Streaming Data,10:00 – 13:00,122-123,HANDS ON TUTORIALS,https://adaptive-machine-learning.github.io/kdd2024_ml_for_streams/
+Breaking Barriers: A Hands-On Tutorial on AI-Enabled Accessibility to Social Media Content,10:00 – 13:00,124-125,HANDS ON TUTORIALS,https://github.com/reddit/kdd2024-tutorial-breaking-barriers
+Monday Lunch,13:00 – 14:00,Second Floor Foyer,,
+KDD CUP: OAG,14:00 – 18:00,M213-214,KDD CUP,
+Workshop on Deep Learning and Large Language Models for Knowledge Graphs (DL4KG),14:00 – 18:00,113,WORKSHOPS,https://genetasefa.github.io/dl4kg2024/
+The 2nd International Workshop: From Innovation to Scale (I2S),14:00 – 18:00,115,WORKSHOPS,https://ai2sdata.github.io/ai2s/
+Machine Learning in Finance,14:00 – 18:00,116,WORKSHOPS,https://sites.google.com/view/kdd-mlf-2024
+FedKDD: International Joint Workshop on Federated Learning for Data Mining and Graph Analytics,14:00 – 18:00,118,WORKSHOPS,https://fedkdd.github.io/
+The Fourth International Workshop on Smart Data for Blockchain and Distributed Ledger (SDBD’24),14:00 – 18:00,119,WORKSHOPS,https://sdbdkdd24.github.io/
+Workshop on Discovering Drift Phenomena in Evolving Data Landscape (DELTA),14:00 – 18:00,120,WORKSHOPS,https://aiimlab.org/events/KDD_2024_Discovering_Drift_Phenomena_in_Evolving_Landscape.html
+3rd Workshop on End-End Customer Journey Optimization,14:00 – 18:00,121,WORKSHOPS,https://sites.google.com/view/3rd-kdd-cj-workshop/home
+DARE to Diversify: DAta Driven and Diverse LLM REd Teaming,14:00 – 17:00,122-123,HANDS ON TUTORIALS,https://sites.google.com/view/kdd24-red-teaming-tutorial
+A Hands-on Introduction to Time Series Classification and Regression,14:00 – 17:00,124-125,HANDS ON TUTORIALS,https://aeon-tutorials.github.io/KDD-2024/
+The Third Workshop on Applied Machine Learning Management,14:00 – 18:00,127-128,WORKSHOPS,https://wamlm-kdd.github.io/wamlm/index.html
+AI for Education (AI4EDU): Advancing Personalized Education with LLM and Adaptive Learning,14:00 – 18:00,129-130,WORKSHOPS,https://ai-for-edu.github.io/workshop_kdd2024.html
+Artificial Intelligence and Data Science for Healthcare: Bridging Data-Centric AI and People-Centric Healthcare,14:00 – 18:00,131-132,WORKSHOPS,https://aimel.ai/kdd2024aidsh
+3rd Workshop on Uncertainty Reasoning and Quantification in Decision Making (UDM),14:00 – 18:00,134,WORKSHOPS,https://ai-activities.github.io/UDM-workshop-24/
+Grounding and Evaluation for Large Language Models: Practical Challenges and Lessons Learned,14:00 – 17:00,133,LECTURE STYLE TUTORIALS,https://sites.google.com/view/llm-evaluation-tutorial
+KDD 2024 Opening Session,18:15 – 19:30,Auditori,GENERAL SESSION,
+Poster Reception #1,19:30 – 21:30,Area 5-7,,
+Opening Keynote Address: AI for Nature: From Science to Impact,09:00 – 10:30,Auditori,GENERAL SESSION,
+Exhibit Hall Open,10:30 – 19:00,Area 3-4,EXHIBITS,
+KDD CUP: Meta,11:00 – 16:00,M213-214,KDD CUP,
+ADS Invited Talk: Ricard Gavalda & Alex Jaimes,11:00 – 13:00,113,ADS INVITED,
+Health Day,11:00 – 18:30,114,SPECIAL DAY,https://sites.google.com/g.ucla.edu/kdd-healthday/home
+Responsible AI Day,11:00 – 18:30,115,SPECIAL DAY,https://responsibleaikdd2024.wordpress.com/
+LLMs,11:00 – 13:00,116,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968741/?widget=primary
+European Data Science Day,11:00 – 18:30,118,SPECIAL DAY,https://ailab.ijs.si/dunja/EU-Day-KDD2024
+Industrial / Manufacturing Applications,11:00 – 13:00,119,ADS ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968745/?widget=primary
+Clustering & Community Detection,11:00 – 13:00,120,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968748/?widget=primary
+Time Series I,11:00 – 13:00,121,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968752/?widget=primary
+Probabilistic & Statistical methods,11:00 – 13:00,122,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968755/?widget=primary
+LLM Benchmarking and Evaluation,11:00 – 13:00,124-125,ADS ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968759/?widget=primary
+Recommendations for Advertising,11:00 – 13:00,127-128,ADS ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968762/?widget=primary
+Graph Neural Networks I,11:00 – 13:00,129-130,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968765/?widget=primary
+RecSys I,11:00 – 13:00,131-132,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968768/?widget=primary
+Scalable ML I,11:00 – 13:00,133,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968771/?widget=primary
+Computational Advertising,11:00 – 13:00,134,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968774/?widget=primary
+Tuesday Lunch,13:00 – 14:00,Area 3-4,,
+ADS Invited Talk: Michael May & Pedro Bizarro,14:00 – 16:00,113,ADS INVITED,
+RecSys II,14:00 – 16:00,116,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968742/?widget=primary
+Spatiotemporal Applications,14:00 – 16:00,119,ADS ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968746/?widget=primary
+Graph clustering & Dense Subgraphs,14:00 – 16:00,120,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968750/?widget=primary
+Urban Data I,14:00 – 16:00,121,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968753/?widget=primary
+Temporal Graphs I,14:00 – 16:00,122,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968756/?widget=primary
+Benchmarking,14:00 – 16:00,124-125,ADS ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968760/?widget=primary
+Computational Advertising,14:00 – 16:00,127-128,ADS ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968763/?widget=primary
+Anomaly Detection I,14:00 – 16:00,129-130,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968766/?widget=primary
+Causal Inference & Discovery,14:00 – 16:00,131-132,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968769/?widget=primary
+Federated Learning I,14:00 – 16:00,133,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968772/?widget=primary
+Transfer Learning & OOD,14:00 – 16:00,134,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968775/?widget=primary
+AI for Environment Day,14:00 – 17:30,123,SPECIAL DAY,https://aiforenvironment.github.io/
+Dissertation Award Presentation,16:30 – 17:30,113,AWARDS TALKS,
+RecSys: LLMs + semantics,16:30 – 18:30,116,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968743/?widget=primary
+"Live-streaming, Gaming, and Music",16:30 – 18:30,119,ADS ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968747/?widget=primary
+Link Prediction,16:30 – 18:30,120,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968751/?widget=primary
+Spatio-temporal Data,16:30 – 18:30,121,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968754/?widget=primary
+Graph Transformers,16:30 – 18:30,122,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968757/?widget=primary
+Deep Learning / Graph Learning for E-Commerce,16:30 – 18:30,124-125,ADS ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968761/?widget=primary
+Recommendations for Social Networks,16:30 – 18:30,127-128,ADS ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968764/?widget=primary
+Graphs+LLMs & RAG,16:30 – 18:30,129-130,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968767/?widget=primary
+Fairness,16:30 – 18:30,131-132,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968770/?widget=primary
+Reinforcement Learning,16:30 – 18:30,133,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968773/?widget=primary
+Deep Learning I,16:30 – 18:30,134,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968776/?widget=primary
+EAGER: Two-Stream Generative Recommender with Behavior-Semantic Collaboration,18:00 – 18:15,116,RESEARCH ORAL PRESENTATIONS,https://doi.org/10.1145/3637528.3671775
+Poster Reception #2,18:30 – 21:30,Area 5-7,,
+Registration,09:00 – 18:00,Entrance Hall A,,
+Keynote Address: From Word Prediction to Complex Skills: Compositional Thinking and Metacognition in LLMsv,09:00 – 10:30,Auditori,GENERAL SESSION,
+Exhibits,10:30 – 19:00,Area 3-4,EXHIBITS,
+KDD CUP: Amazon,11:00 – 16:30,M213-214,KDD CUP,
+ADS Invited Talk: Haixun Wang & Luna Dong,11:00 – 13:00,113,ADS INVITED,
+"Equity, Diversity & Inclusion (EDI) Day",11:00 – 16:00,114,SPECIAL DAY,https://edi-kdd2024.github.io/
+AI4Science4AI Day,11:00 – 18:00,115,SPECIAL DAY,https://sites.google.com/view/kdd24-ai4science4ai/
+Recommendations with Graphs,11:00 – 13:00,116,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968791/?widget=primary
+Undergraduate Consortium,11:00 – 16:00,118,UNDERGRADUATE CONSORTIUM,https://kdd2024.kdd.org/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968793/?widget=primary
+Marketing Applications,11:00 – 13:00,119,ADS ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968794/?widget=primary
+Graphs: Generalization & Adaptation,11:00 – 13:00,120,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968797/?widget=primary
+Interpretability & Explainability,11:00 – 13:00,121,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968799/?widget=primary
+NLP,11:00 – 13:00,122,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968801/?widget=primary
+LLM Applications,11:00 – 13:00,124-125,ADS ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968805/?widget=primary
+E-Commerce Applications,11:00 – 13:00,127-128,ADS ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968808/?widget=primary
+Graph Neural Networks II,11:00 – 13:00,129-130,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968811/?widget=primary
+Anomaly Detection II,11:00 – 13:00,131-132,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968813/?widget=primary
+Federated Learning II,11:00 – 13:00,133,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968815/?widget=primary
+Health & Molecular Data,11:00 – 13:00,134,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968818/?widget=primary
+Poster Reception #3,13:00 – 16:00,Area 5-7,,
+Wednesday Lunch,13:00 – 14:00,Area 3-4,,
+ADS Invited Talk: Hema Raghavan & Dragos Margineantu,14:00 – 16:00,113,ADS INVITED,
+Scientific Applications,14:00 – 16:00,119,ADS ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968795/?widget=primary
+PhD Consortium,14:00 – 16:00,123,PHD CONSORTIUM,
+Deep Learning in Healthcare,14:00 – 16:00,124-125,ADS ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968806/?widget=primary
+Controlled Experimentation,14:00 – 16:00,127-128,ADS ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968809/?widget=primary
+Test of Time Award,16:30 – 17:30,113,AWARDS TALKS,
+Ranking & Retrieval,16:30 – 18:30,116,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968792/?widget=primary
+Media and Social Networks,16:30 – 18:30,119,ADS ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968796/?widget=primary
+Healthcare Applications,16:30 – 18:30,124-125,ADS ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968807/?widget=primary
+Casual Modeling,16:30 – 18:30,127-128,ADS ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/4020491/?widget=primary
+Graph Mining & Algorithms,16:30 – 18:30,120,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968798/?widget=primary
+Security & Privacy,16:30 – 18:30,121,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968800/?widget=primary
+Temporal Graphs II,16:30 – 18:30,122,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968802/?widget=primary
+PhD & Undergrad Consortium,16:30 – 18:30,123,PHD & UNDERGRAD CONSORTIUM,https://kdd2024.kdd.org/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968804/?widget=primary
+Self- & Semi-supervised Learning,16:30 – 18:30,129-130,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968812/?widget=primary
+Time Series II,16:30 – 18:30,131-132,RESEARCH ORAL PRESENTATIONS,https://whova.com/embedded/session/avBTMdVt9LpKU8wGBhyS7P0tL-aSotzP6HuqmCh%40ZhY%3D/3968814/?widget=primary
